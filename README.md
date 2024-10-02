@@ -6,9 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/@paswan_25" target="blank"><img src="https://img.shields.io/twitter/follow/@paswan_25?logo=twitter&style=for-the-badge" alt="@paswan_25" /></a> </p>
 
-- 🔭 I’m currently working on **Payment Gateway (Spring Boot)**
-
-- 🌱 I’m currently learning **Spring Boot Framework**
+- 🌱 I’m currently learning **Spring Boot Framework and Angular**
 
 - 💬 Ask me about **Java, C/C++,Competitive Programming**
 
