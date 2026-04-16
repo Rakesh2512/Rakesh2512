@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **rakesh25paswan@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/15MErJFhByFGT4nVlWTFKZE4vmz2whtzXRA6knlRi_7k/edit?usp=sharing](https://docs.google.com/document/d/15MErJFhByFGT4nVlWTFKZE4vmz2whtzXRA6knlRi_7k/edit?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@paswan_25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@paswan_25" height="30" width="40" /></a>
